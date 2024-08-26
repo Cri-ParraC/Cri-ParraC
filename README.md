@@ -1,6 +1,6 @@
 ## ¡Hola!
 
-Me llamo **Cristian**, soy un desarrollador de software entusiasta de **JavaScript**, **TypeScript** y **Angular**.
+Me llamo **Cristian**, soy un desarrollador de software entusiasta de **JavaScript**, **Laravel** y **Angular**.
 
 Acá iré subiendo mis pequeños proyectos personales.
 
@@ -12,7 +12,7 @@ Saludos desde Chile 🇨🇱.
 
 ## ¡Hello!
 
-My name is **Cristian**, I'm a software developer intersted in **JavaScript**, **TypeScript** and **Angular**.
+My name is **Cristian**, I'm a software developer intersted in **JavaScript**, **Laravel** and **Angular**.
 
 Here I'll post my personal projects.
 
