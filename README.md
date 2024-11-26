@@ -8,7 +8,7 @@ Cuando tengo tiempo libre, me gusta escribir plugins JavaScript para el motor de
 
 Me puedes contactar en el siguiente correo: [cri.parrac@gmail.com](mailto:cri.parrac@gmail.com)
 
-Saludos desde Chile 🇨🇱.
+Saludos desde Chile.
 
 ## ¡Hello!
 
@@ -20,4 +20,4 @@ In my spare time, I like to write JavaScript plugins for the **RPG Maker MZ** ga
 
 You can contact me at the following email: [cri.parrac@gmail.com](mailto:cri.parrac@gmail.com)
 
-Greetings from Chile 🇨🇱.
+Greetings from Chile.
