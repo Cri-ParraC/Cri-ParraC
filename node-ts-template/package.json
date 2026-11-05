@@ -1,0 +1,22 @@
+{
+  "name": "node-ts-template",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal Node.js + TypeScript template using Node's native type stripping (no build step).",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node src/index.ts",
+    "dev": "node --watch src/index.ts",
+    "test": "node --test",
+    "test:watch": "node --test --watch",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm test"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "^7.0.2"
+  }
+}
